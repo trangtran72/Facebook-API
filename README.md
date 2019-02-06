@@ -10,3 +10,5 @@ Note that you need an active Facebook account to be able to create an app.
 **Result**
 
 `Authorization.ipynb` The notebook that documents the steps to exchange an token to access your own Facebook data
+
+The notebook that documents the data processing, and the work in SQL to create a relational database
